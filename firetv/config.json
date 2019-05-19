@@ -3,7 +3,13 @@
     "version": "0.0.3",
     "slug": "firetv",
     "description": "FireTV App",
-    "url": "https://github.com/greylurk/hassio-addon-experiments",
+    "url": "https://github.com/abisiaux/hassio-custom-addons",
+    "arch": [
+        "aarch64",
+        "amd64",
+        "armhf",
+        "i386"
+    ],
     "startup": "services",
     "boot": "auto",
     "ports": {
