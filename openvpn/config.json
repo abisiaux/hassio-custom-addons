@@ -9,7 +9,7 @@
         "armhf",
         "i386"
     ],
-    "url": "https://github.com/greylurk/hassio-addon-experiments",
+    "url": "https://github.com/abisiaux/hassio-custom-addons",
     "startup": "application",
     "boot": "auto",
     "options": {
